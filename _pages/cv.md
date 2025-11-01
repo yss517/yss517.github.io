@@ -12,7 +12,7 @@ Education
 * Ph.D in Statistics, The Pennsylvania State Unversity, 2018 
 * B.S. in Statistics, Beijing Normal University, 2013
 
-Academic Work experience
+Academic Work Experience
 ======
 * July 2025 - now: Tenure-track Associate Professor 
   * Institute of Statistics and Big Data
