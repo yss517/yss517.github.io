@@ -18,7 +18,7 @@ Academic Work experience
   * Institute of Statistics and Big Data
   * Renmin University of China
 
-* Septembet 2021 - June 2025: Assistant Professor 
+* September 2021 - June 2025: Assistant Professor 
   * Institute of Statistics and Big Data
   * Renmin University of China
   
