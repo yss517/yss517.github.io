@@ -9,9 +9,7 @@ author_profile: true
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Yang, S., Wen, J., Eckert, S. T., Wang, Y., Liu, D. J., Wu, R., ... & Zhan, X. (2020). Prioritizing genetic variants in GWAS with lasso using permutation-assisted tuning. Bioinformatics, 36(12), 3811-3817.
 
 Work experience
 ======
