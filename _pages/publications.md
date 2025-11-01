@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Education
+Journal Articles
 ======
 Yang, S., Wen, J., Eckert, S. T., Wang, Y., Liu, D. J., Wu, R., ... & Zhan, X. (2020). Prioritizing genetic variants in GWAS with lasso using permutation-assisted tuning. Bioinformatics, 36(12), 3811-3817.
 
