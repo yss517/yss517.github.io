@@ -9,7 +9,9 @@ author_profile: true
 
 Journal Articles
 ======
-Yang, S., Wen, J., Eckert, S. T., Wang, Y., Liu, D. J., Wu, R., ... & Zhan, X. (2020). Prioritizing genetic variants in GWAS with lasso using permutation-assisted tuning. Bioinformatics, 36(12), 3811-3817.
+Songshan Yang, Shurong Zheng, Runze Li (2024). A New Test for High Dimensional Two-Sample Mean Problems with Consideration of Correlation Structure. The Annals of Statistics, 52(5), 2217-2240.
+
+Yang, S., Wen, J., Eckert, S. T., Wang, Y., Liu, D. J., Wu, R., Li, R. and Zhan, X. (2020). Prioritizing genetic variants in GWAS with lasso using permutation-assisted tuning. Bioinformatics, 36(12), 3811-3817.
 
 Work experience
 ======
