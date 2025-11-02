@@ -19,4 +19,5 @@ Contact Information
 
 Email
 ======
+<span id="email">yangss@ruc.edu.cn</span>
 yangss@ruc.edu.cn
