@@ -40,7 +40,7 @@ Zhaoxue Tong, Zhanrui Cai#, **Songshan Yang**#, Runze Li (2023). Model-free Cond
 
 Le Bao, Changcheng Li#, Runze Li, **Songshan Yang**# (2022). Causal Structural Learning on MPHIA Individual Dataset. _**Journal of the American Statistical Association**_, 117(540), 1642-1655.  **(Alphabetical order)**
 
-**Songshan Yang**#, Jiawei Wen, Xiang Zhan, Daniel Kifer (2019). ET-lasso: A New Efficient Tuning of Lasso-type Regularization for High-dimensional Data. _**Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (oral)**_, 607-616.
+**Songshan Yang**#, Jiawei Wen, Xiang Zhan, Daniel Kifer (2019). ET-lasso: A New Efficient Tuning of Lasso-type Regularization for High-dimensional Data. _**Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (Oral)**_, 607-616.
 
 
 Editorial Service
