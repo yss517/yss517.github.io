@@ -43,9 +43,9 @@ Guangren Yang, **Songshan Yang**, Wang Zhou (2019). Adjacency Matrix Comparison 
 
 Interdisciplinary Research
 ======
-Runze Li, Jin Mu*, **Songshan Yang** #, Cong Ye*, Xiang Zhan # (2024). Compositional Variable Selection in Quantile Regression for Microbiome Data with False Discovery Rate Control. _**Statistical Analysis and Data Mining**_, 17(2), e11674. **(Alphabetical order)**
+Runze Li, Jin Mu *, **Songshan Yang** #, Cong Ye *, Xiang Zhan # (2024). Compositional Variable Selection in Quantile Regression for Microbiome Data with False Discovery Rate Control. _**Statistical Analysis and Data Mining**_, 17(2), e11674. **(Alphabetical order)**
 
-Elisa M Trucco, **Songshan Yang**, James J Yang, Robert A Zucker, Runze Li, Anne Buu* (2020). Time-varying Effects of GABRG1 and Maladaptive Peer Behavior on Externalizing Behavior from Childhood to Adulthood: Testing Gene×Environment×Development Effects. _**Journal of Youth and Adolescence**_, 49, 1351-1364.
+Elisa M Trucco, **Songshan Yang**, James J Yang, Robert A Zucker, Runze Li, Anne Buu (2020). Time-varying Effects of GABRG1 and Maladaptive Peer Behavior on Externalizing Behavior from Childhood to Adulthood: Testing Gene×Environment×Development Effects. _**Journal of Youth and Adolescence**_, 49, 1351-1364.
 
 Anne Buu, **Songshan Yang**, Runze Li, Marc A Zimmerman, Rebecca M Cunningham, Maureen A Walton (2020). Examining Measurement Reactivity in Daily Diary Data on Substance Use: Results from A Randomized Experiment. _**Addictive Behaviors**_, 102, 106198
 
