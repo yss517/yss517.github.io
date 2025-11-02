@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Probability and Mathematical Statistics
+### Probability Theory and Mathematical Statistics
 
 * Undergraduate Course
 * Fall 2025
