@@ -12,12 +12,12 @@ I am a tenure-track Associate Professor at the Institute of Statistics and Big D
 
 My primary research interests include statistical inference for high-dimensional data, distributed learning, multi-task learning, and quantitative trading of financial assets.
 
-## Contact Information
-
+Contact Information
+====
 <address>
-  59 Zhongguancun <br /> Renmin University of China <br />  Haidian, Beijing 10087 <br /> P.R. China <br />
+  59 Zhongguancun <br /> Renmin University of China <br />  Haidian, Beijing 10087 <br /> P.R. China \
 </address>
 
-## Email
-
+Email
+======
 yangss@ruc.edu.cn
