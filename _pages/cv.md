@@ -24,7 +24,7 @@ Academic Work Experience
     
 Featured Publications
 ======
-(<span style="color: #1a365d; font-size: 1.2em;">✉️</span>: Corresponding author, *: Supervised student)
+(<a style="color: #1a365d;">✉️ 深蓝邮箱</a> : Corresponding author, *: Supervised student)
 
  **Songshan Yang**, Yifan Gu*, Hanfang Yang, Xuming He (2025+). Communication-Efficient and Distributed-Oracle Estimation for High-Dimensional Quantile Regression. _**The Annals of Statistics**_, In press.
 
