@@ -24,6 +24,7 @@ Academic Work Experience
     
 Featured Publications
 ======
+(<sup>*</sup> Corresponding author, <sup>†</sup> Student, <sup>#</sup> Alphabetical order)
  **Songshan Yang**, Yifan Gu, Hanfang Yang, Xuming He (2025+). Communication-Efficient and Distributed-Oracle Estimation for High-Dimensional Quantile Regression. _**The Annals of Statistics**_, In press.
 
 Jiawei Wen, **Songshan Yang**, Christina Dan Wang, Yifan Jiang, Runze Li (2025). Feature-splitting Algorithms for Ultrahigh Dimensional Quantile Regression. _**Journal of Econometrics**_, 249(a), 105426.
