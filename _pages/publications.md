@@ -25,7 +25,7 @@ Zhanrui Cai, Changcheng Li, Jiawei Wen, **Songshan Yang**# (2024). Asset Splitti
 
 Jiawei Wen, **Songshan Yang**, Delin Zhao* (2024). Nonconvex Dantzig Selector and Its Parallel Computing Algorithm. _**Statistics and Computing**_, 34(180). **(Alphabetical order)**
 
-Zhaoxue Tong, Zhanrui Cai#, **Songshan Yang**#, Runze Li (2023). Model-free Conditional Feature Screening with FDR Control. _**Journal of the American Statistical Association**_, 118, (544), 2575-2587.
+Zhaoxue Tong, Zhanrui Cai#, **Songshan Yang**#, Runze Li (2023). Model-Free Conditional Feature Screening with FDR Control. _**Journal of the American Statistical Association**_, 118, (544), 2575-2587.
 
 Changcheng Li, Runze Li, Jiawei Wen#, **Songshan Yang**#, Xiang Zhan (2023). Regularized Linear Programming Discriminant Rule with Folded Concave Penalty for Ultrahigh-dimensional Data. _**Journal of Computational and Graphical Statistics**_, 32(3), 1074-1082. **(Alphabetical order)**
 
