@@ -28,7 +28,7 @@ Featured Publications
 
  **Songshan Yang**, Yifan Gu*, Hanfang Yang, Xuming He (2025+). Communication-Efficient and Distributed-Oracle Estimation for High-Dimensional Quantile Regression. _**The Annals of Statistics**_, In press.
 
-Jiawei Wen, **Songshan Yang†**, Christina Dan Wang, Yifan Jiang, Runze Li (2025). Feature-splitting Algorithms for Ultrahigh Dimensional Quantile Regression. _**Journal of Econometrics**_, 249(a), 105426.
+Jiawei Wen, **Songshan Yang**#, Christina Dan Wang, Yifan Jiang, Runze Li (2025). Feature-splitting Algorithms for Ultrahigh Dimensional Quantile Regression. _**Journal of Econometrics**_, 249(a), 105426.
 
 **Songshan Yang**, Shurong Zheng, Runze Li (2024). A New Test for High Dimensional Two-Sample Mean Problems with Consideration of Correlation Structure. _**The Annals of Statistics**_, 52(5), 2217-2240.
 
