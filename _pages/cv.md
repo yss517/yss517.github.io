@@ -14,11 +14,13 @@ Education
 
 Academic Work Experience
 ======
-* July 2025 - now: Tenure-track Associate Professor 
+* Tenure-track Associate Professor
+  * July 2025 - now
   * Institute of Statistics and Big Data
   * Renmin University of China
 
-* September 2021 - June 2025: Assistant Professor 
+* Assistant Professor
+  * September 2021 - June 2025
   * Institute of Statistics and Big Data
   * Renmin University of China
     
