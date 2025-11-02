@@ -15,7 +15,7 @@ Statistical Methodology
 
 Wenxi Tan, Lingzhou Xue, **Songshan Yang**, Xiang Zhan (2025+). High-Dimensional Log Contrast Models with Measurement Errors. _**Statistica Sinica**_, In press. **(Alphabetical order)**
 
-Jiawei Wen, **Songshan Yang**#, Christina Dan Wang, Yifan Jiang, Runze Li (2025). Feature-splitting Algorithms for Ultrahigh Dimensional Quantile Regression. _**Journal of Econometrics**_, 249(a), 105426.
+Jiawei Wen, **Songshan Yang**#, Christina Dan Wang, Yifan Jiang, Runze Li (2025). Feature-Splitting Algorithms for Ultrahigh Dimensional Quantile Regression. _**Journal of Econometrics**_, 249(a), 105426.
 
 Yilin Zhang*, **Songshan Yang**# (2025). Kernel Angle Dependence Measures in Metric Spaces. _**Journal of Computational and Graphical Statistics**_, 34(1), 280-289.
 
