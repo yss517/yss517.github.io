@@ -14,9 +14,10 @@ My primary research interests include statistical inference for high-dimensional
 
 Contact Information
 ====
-<address>
-  59 Zhongguancun <br /> Renmin University of China <br />  Haidian, Beijing 10087 <br /> P.R. China <br /> 
-</address>
+
+  59 Zhongguancun <br> Renmin University of China <br>  Haidian, Beijing 10087 <br> P.R. China <br> 
+
+
 
 
 Email
