@@ -32,11 +32,11 @@ Jiawei Wen, **Songshan Yang†**, Christina Dan Wang, Yifan Jiang, Runze Li (202
 
 **Songshan Yang**, Shurong Zheng, Runze Li (2024). A New Test for High Dimensional Two-Sample Mean Problems with Consideration of Correlation Structure. _**The Annals of Statistics**_, 52(5), 2217-2240.
 
-Zhanrui Cai, Changcheng Li, Jiawei Wen, **Songshan Yang†** #(2024). Asset Splitting Algorithm for Ultrahigh Dimensional Portfolio Selection and Its Theoretical Property. _**Journal of Econometrics**_, 239(2), 10529. 
+Zhanrui Cai#, Changcheng Li, Jiawei Wen, **Songshan Yang†** (2024). Asset Splitting Algorithm for Ultrahigh Dimensional Portfolio Selection and Its Theoretical Property. _**Journal of Econometrics**_, 239(2), 10529. 
 
 Zhaoxue Tong, Zhanrui Cai†, **Songshan Yang†**, Runze Li (2023). Model-free Conditional Feature Screening with FDR Control. _**Journal of the American Statistical Association**_, 118, (544), 2575-2587.
 
-Le Bao, Changcheng Li†, Runze Li, **Songshan Yang†** #(2022). Causal Structural Learning on MPHIA Individual Dataset. _**Journal of the American Statistical Association**_, 117(540), 1642-1655.
+Le Bao#, Changcheng Li†, Runze Li, **Songshan Yang†** (2022). Causal Structural Learning on MPHIA Individual Dataset. _**Journal of the American Statistical Association**_, 117(540), 1642-1655.
 
 **Songshan Yang†**, Jiawei Wen, Xiang Zhan, Daniel Kifer (2019). ET-lasso: A New Efficient Tuning of Lasso-type Regularization for High-dimensional Data. _**Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (oral)**_, 607-616.
 
