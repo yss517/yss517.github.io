@@ -12,7 +12,7 @@ I am a tenure-track Associate Professor at the Institute of Statistics and Big D
 
 Contact Information
 ======
-Renmin University of China, \\\
+Renmin University of China, \\
 No. 59 Zhongguancun Street, 
 Haidian District Beijing, 100872, 
 P.R. China
