@@ -19,5 +19,5 @@ Contact Information
 
 Email
 ======
-<span id="email">yangss@ruc.edu.cn</span>
-yangss@ruc.edu.cn
+<span id="email">yangss@ruc.edu.cn</span> <br> 
+<span id="email">songshan.yang@gmail.com</span>
