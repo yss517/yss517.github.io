@@ -13,7 +13,7 @@ Statistical Methodology
 
 Yifan Gu *, Hanfang Yang, **Songshan Yang** #, Hui Zou # (2026+). Collaborative Inference for Sparse High-Dimensional Models with Non-Shared Data. _**Journal of the American Statistical Association**_. **(Alphabetical order)**
 
-**Songshan Yang**, Delin Zhao, Runze Li (2026+). Statistical Inference for High-dimensional Partially Linear Models via Debiased Rank Lasso. _**Journal of Machine Learning research**_.
+**Songshan Yang**, Delin Zhao, Runze Li (2026+). Statistical Inference for High-dimensional Partially Linear Models via Debiased Rank Lasso. _**Journal of Machine Learning Research**_.
 
 Zikang Gou *, Haonan Hu, Hanming Yang *, **Songshan Yang** (2026+). A Dantzig-type Large Portfolio Optimization Model and Its Efficient Fitting Algorithm. _**Journal of Business & Economic Statistics**_. 
 
