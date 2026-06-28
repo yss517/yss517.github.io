@@ -28,7 +28,7 @@ Featured Publications
 ======
 ( # : Corresponding author, * : Supervised student)
 
-Yifan Gu *, Hanfang Yang, **Songshan Yang**#, Hui Zou # (2026+). Collaborative Inference for Sparse High-Dimensional Models with Non-Shared Data. _**Journal of the American Statistical Association**_. **(Alphabetical order)**
+Yifan Gu *, Hanfang Yang, **Songshan Yang** #, Hui Zou # (2026+). Collaborative Inference for Sparse High-Dimensional Models with Non-Shared Data. _**Journal of the American Statistical Association**_. **(Alphabetical order)**
 
 **Songshan Yang**, Delin Zhao, Runze Li (2026+). Statistical Inference for High-dimensional Partially Linear Models via Debiased Rank Lasso. _**Journal of Machine Learning research**_.
 
