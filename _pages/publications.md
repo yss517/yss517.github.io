@@ -11,7 +11,13 @@ Statistical Methodology
 ======
 ( # : Corresponding author, * : Supervised student)
 
-**Songshan Yang**, Yifan Gu *, Hanfang Yang, Xuming He (2025+). Communication-Efficient and Distributed-Oracle Estimation for High-Dimensional Quantile Regression. _**The Annals of Statistics**_, In press.
+Yifan Gu *, Hanfang Yang, **Songshan Yang**#, Hui Zou # (2026+). Collaborative Inference for Sparse High-Dimensional Models with Non-Shared Data. _**Journal of the American Statistical Association**_. **(Alphabetical order)**
+
+**Songshan Yang**, Delin Zhao, Runze Li (2026+). Statistical Inference for High-dimensional Partially Linear Models via Debiased Rank Lasso. _**Journal of machine learning research**_.
+
+Zikang Gou *, Haonan Hu, Hanming Yang *, **Songshan Yang** (2026+). A Dantzig-type Large Portfolio Optimization Model and Its Efficient Fitting Algorithm. _**Journal of Business & Economic Statistics**_. 
+
+**Songshan Yang**, Yifan Gu *, Hanfang Yang, Xuming He (2026). Communication-Efficient and Distributed-Oracle Estimation for High-Dimensional Quantile Regression. _**The Annals of Statistics**_, 54(1),442-465.
 
 Wenxi Tan, Lingzhou Xue, **Songshan Yang**, Xiang Zhan (2025+). High-Dimensional Log Contrast Models with Measurement Errors. _**Statistica Sinica**_, In press. **(Alphabetical order)**
 
