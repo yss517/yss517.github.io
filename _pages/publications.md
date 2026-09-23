@@ -11,11 +11,15 @@ Statistical Methodology
 ======
 ( # : Corresponding author, * : Supervised student)
 
+Yilin Zhang*, **Songshan Yang** #, Yunan Wu, Lan Wang (2026+). Partial Gini Covariance-based Robust Inference for High-dimensional Linear Models with Heavy-tailed Errors. _**Journal of the American Statistical Association**_. 
+
 Yifan Gu *, Hanfang Yang, **Songshan Yang** #, Hui Zou # (2026+). Collaborative Inference for Sparse High-Dimensional Models with Non-Shared Data. _**Journal of the American Statistical Association**_. **(Alphabetical order)**
 
 **Songshan Yang**, Delin Zhao, Runze Li (2026+). Statistical Inference for High-dimensional Partially Linear Models via Debiased Rank Lasso. _**Journal of Machine Learning Research**_.
 
 Zikang Gou *, Haonan Hu, Hanming Yang *, **Songshan Yang** (2026+). A Dantzig-type Large Portfolio Optimization Model and Its Efficient Fitting Algorithm. _**Journal of Business & Economic Statistics**_. 
+
+Yifan Jiang, **Songshan Yang** #, Le Bao, Runze Li (2026+). Simultaneous Feature-and Sample-Splitting ADMM for Penalized Rank Regression. _**Journal of Computational and Graphical Statistics**_.
 
 **Songshan Yang**, Yifan Gu *, Hanfang Yang, Xuming He (2026). Communication-Efficient and Distributed-Oracle Estimation for High-Dimensional Quantile Regression. _**The Annals of Statistics**_, 54(1),442-465.
 
@@ -49,6 +53,8 @@ Guangren Yang, **Songshan Yang**, Wang Zhou (2019). Adjacency Matrix Comparison 
 
 Interdisciplinary Research
 ======
+David Easley, Maureen O’Hara, **Songshan Yang**, Zhibai Zhang (2026). Microstructure and market dynamics in crypto markets. _**Journal of Financial Markets**_, 101071.
+
 Runze Li, Jin Mu *, **Songshan Yang** #, Cong Ye *, Xiang Zhan # (2024). Compositional Variable Selection in Quantile Regression for Microbiome Data with False Discovery Rate Control. _**Statistical Analysis and Data Mining**_, 17(2), e11674. **(Alphabetical order)**
 
 Elisa M Trucco, **Songshan Yang**, James J Yang, Robert A Zucker, Runze Li, Anne Buu (2020). Time-varying Effects of GABRG1 and Maladaptive Peer Behavior on Externalizing Behavior from Childhood to Adulthood: Testing Gene×Environment×Development Effects. _**Journal of Youth and Adolescence**_, 49, 1351-1364.
